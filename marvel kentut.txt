@@ -1,0 +1,39 @@
+1. D (yang cici nis nya dobel), (yang dedi nisnya null, primary key gaboleh null)
+
+2. A (count(*) = total data keseluruhan) (count(nilai) =total data yg ada) (avg(nilai)= rata rata)
+
+3. E  
+
+4. C (karena WHERE jumlah >= 3 itu memfilter semua data dibawah 3. lalu sum(jumlah) dibawahnya itu hanya memfilter yang > 8 (bukan >=) YANG sudah difilter >=3)
+
+5. C (KARNA ADA 1 NULL)
+
+6. A
+
+7. C
+
+8. A
+
+9. D
+
+10. E (limit = 2 data saja, asc = kecil-besar)
+
+11. B
+
+12. D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
